@@ -16,3 +16,9 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+.positief {
+    color: green;
+}
+.negatief {
+    color: red;
+}
