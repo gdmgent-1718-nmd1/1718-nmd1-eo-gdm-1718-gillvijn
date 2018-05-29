@@ -22,3 +22,23 @@ img {
 .negatief {
     color: red;
 }
+
+.test {
+    background-color: red;
+    padding:20px 50px;
+    font-size: 45px;
+}
+#verzend {
+    width: 20%;
+    height: 20%;
+    
+}
+#scroll {
+margin-left: 50px;
+
+}
+
+#pijl {
+    width: 50%;
+    height: 50%;
+}
