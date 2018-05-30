@@ -9,7 +9,9 @@ body {
     color: #333;
     line-height: 1.5em;
     padding: 25px;
+    
 }
+
 
 img {
     max-width: 100%; /* Afbeeldingen responsive maken */
@@ -41,4 +43,16 @@ margin-left: 50px;
 #pijl {
     width: 50%;
     height: 50%;
+}
+body {
+background-color: #54CF9A
+} 
+
+.paragraaf {
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    padding:50px;
+}
+h2,h1 {
+    color: white;
 }
