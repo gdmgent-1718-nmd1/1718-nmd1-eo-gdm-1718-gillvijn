@@ -56,6 +56,16 @@ background-color: #54CF9A
     border-width: 3px;
     border-color:#438966;
 }
-h2,h1,h3 {
+h2,h1 {
     color: white;
+}
+
+
+
+td {
+    border: none;
+}
+
+#lt {
+    font-size: 25px;
 }
